@@ -1,0 +1,2 @@
+this is fist test text
+this action, we get log 2
